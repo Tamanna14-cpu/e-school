@@ -1,0 +1,157 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    padding-bottom: 50px;
+}
+
+.bg-green{
+    background-color: #F0FFF0;
+}
+.navbar{
+    background-color: #F0FFF0;
+}
+.navbar img{
+    width: 150px;
+}
+.nav-item{
+    padding-right: 20px;
+}
+.sign-in-btn{
+    padding: 4px 17px;
+    border: none;
+    background-color: rgba(33, 181, 115, 1);
+    color: white;
+    border-radius: 35px;
+}
+
+.get-btn{
+    padding: 8px 25px;
+    border: none;
+    background-color: rgba(33, 181, 115, 1);
+    color: white;
+    border-radius: 35px;
+}
+.learning-part{
+    background-color: #F0FFF0;
+}
+.learn{
+    padding: 50px 30px;
+}
+.learning-part img{
+    width: 550px;
+}
+.learning-part h5{
+    color: red;
+}
+.learning-part h1{
+    font-weight: bold;
+}
+.learning-part h6{
+    color: lightgrey;
+}
+
+.first-card{
+    margin-top: 50px;
+}
+.card{
+    border: none !important;
+    background: #F8FFFB !important;
+    border-radius: 10px !important;
+}
+
+.small-img img{
+    width: 100px;
+    margin: auto;
+    padding-top: 30px;
+}
+.large-img img{
+    width: 90px;
+    height: 120px;
+    margin: auto;
+    padding-top: 30px;
+}
+.card-body h5,p{
+    text-align: center;
+}
+.card-body p{
+    color: gray;
+    font-weight: 600;
+}
+
+
+#courses h2{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+#courses .card{
+    background-color: white !important;
+}
+#courses .card-title{
+    font-weight: 600;
+}
+#courses .card-body h5,p{
+    text-align: left;
+}
+.course-img img{
+    width: 320px;
+    border-radius: 20px;
+    margin: auto;
+    padding-top: 10px;
+}
+.buy-course{
+    margin-top: 5px;
+    padding: 5px 25px;
+    border: none;
+    background-color: rgba(33, 181, 115, 1);
+    color: white;
+    border-radius: 30px;
+}
+.last-part{
+    margin-top: 30px;
+}
+.last-part img{
+    width: 18px;
+}
+
+.testimonial h2{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+.test-img img{
+    width: 170px;
+    margin-left: 270px;
+}
+.test-img h6{
+    font-weight: 450;
+    margin-top: 30px;
+}
+
+.black-part{
+    background-color: rgba(40, 37, 49, 1);
+    height: 250px;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+.black-part .col-md-6{
+    padding-left: 200px;
+}
+.black-part h6{
+    color: white;
+}
+.black-part small{
+    color: rgba(205, 205, 205, 1);
+}
+.copyright{
+    color: rgba(205, 205, 205, 1);
+    font-size: 16px;
+    font-weight: 50;
+}
+.copyright p{
+    text-align: center;
+    padding-top: 53px;
+}
